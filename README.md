@@ -9,7 +9,7 @@ There is a strong negative correlation (✨r value -0.82 ✨) between latitude a
 
 Weak correlations
 - Latitude versus maximum temperature southern hemisphere
-- Latitude versus humidity and coudiness both northern and outhern hemisphere
+- Latitude versus humidity and coudiness both northern and southern hemisphere
 
 Very weak correlations
 - Latitude versus wind speed both northern and outhern hemisphere
